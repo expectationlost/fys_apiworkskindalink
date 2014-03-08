@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 #Add API to retrieve incident with comments
 #https://github.com/ushahidi/Ushahidi_Web/pull/142
 
